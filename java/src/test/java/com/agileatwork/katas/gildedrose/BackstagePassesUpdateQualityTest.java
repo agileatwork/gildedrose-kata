@@ -1,4 +1,4 @@
-package es.alfredocasado.katas.gildedrose;
+package com.agileatwork.katas.gildedrose;
 
 import com.agileatwork.katas.gildedrose.GildedRose;
 import com.agileatwork.katas.gildedrose.Item;
