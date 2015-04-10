@@ -1,0 +1,5 @@
+c:\users\winmac\documents\visual studio 2012\Projects\GildedRose\GildedRose\bin\Debug\GildedRose.dll
+c:\users\winmac\documents\visual studio 2012\Projects\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+c:\users\winmac\documents\visual studio 2012\Projects\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
+c:\users\winmac\documents\visual studio 2012\Projects\GildedRose\GildedRose\obj\Debug\GildedRose.dll
+c:\users\winmac\documents\visual studio 2012\Projects\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
